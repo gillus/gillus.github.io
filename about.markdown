@@ -4,9 +4,9 @@ title: "About Luca"
 permalink: /about/
 ---
 
-**Luca** is the co-founder of **Clearbox AI**, a forward-thinking startup specializing in AI services with a particular focus on synthetic data generation. He holds a Ph.D. in Computational Mathematics from the Delft University of Technology, where he honed the analytical skills that now drive his innovative work.
+I am the co-founder of **Clearbox AI**, a company specializing in AI services with a particular focus on synthetic data generation. I hold a Ph.D. in Applied Sciences from the Delft University of Technology, where I honed the analytical skills that now drive my work.
 
-With over five years of experience as a research consultant and software development manager at a leading consultancy in the Netherlands, Luca has successfully served clients from around the globe. His expertise spans uncertainty quantification, generative artificial intelligence, and the validation of machine learning models, making him a trusted expert in leveraging AI to solve complex challenges.
+With over five years of experience as a research consultant and software development manager at a leading consultancy in the Netherlands, I successfully served clients from around the globe. My expertise spans uncertainty quantification, generative artificial intelligence, and the validation of machine learning models, making me a trusted expert in leveraging AI to solve complex challenges.
 
-Passionate about the transformative power of AI, Luca is dedicated to pushing the boundaries of technology to create practical solutions that empower businesses and shape the future of innovation.
+Passionate about the transformative power of AI, I am dedicated to pushing the boundaries of technology to create practical solutions that empower businesses and shape the future of innovation.
 
