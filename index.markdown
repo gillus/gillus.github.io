@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Luca"
+title: "About"
 ---
 
 ## About Me
@@ -41,10 +41,10 @@ My expertise is within designing mathematical and statistical validation techniq
 
 ## Talks and Presentations
 
-- **PyCon Italia 2025** (Bologna) -- [How to Build Your Own Tiny Language Model from Scratch](https://2025.pycon.it/en) (with Simona Mazzarino)
+- **PyCon Italia 2025** (Bologna) -- [How to Build Your Own Tiny Language Model from Scratch](https://2025.pycon.it/en)
 - **AI Heroes 2023** (Turin) -- [Enhancing AI Robustness with High-Quality Synthetic Data](https://aiheroes.it/)
 - **BiDigital 2023** (Biella) -- "We Have No Moat": Open-source vs Closed-source in the Era of Large Language Models
-- **NL4AI / AIxIA 2023** (Rome) -- [NERPII: A Python Library to Perform Named Entity Recognition and Generate Personal Identifiable Information](https://ceur-ws.org/Vol-3551/) (with Simona Mazzarino and Andrea Minieri)
+- **NL4AI / AIxIA 2023** (Rome) -- [NERPII: A Python Library to Perform Named Entity Recognition and Generate Personal Identifiable Information](https://ceur-ws.org/Vol-3551/)
 
 ---
 

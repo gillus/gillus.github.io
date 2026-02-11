@@ -20,7 +20,6 @@
 
 # _config.yml
 title: Luca Gilli
-email: gillus@gmail.com
 description: >-
   CTO of Clearbox AI Solutions -- synthetic data, uncertainty quantification, and generative AI
 baseurl: "" # the subpath of your site, e.g. /blog
