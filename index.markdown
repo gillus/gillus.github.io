@@ -3,8 +3,6 @@ layout: page
 title: "About"
 ---
 
-## About Me
-
 I'm the CTO of **Clearbox AI Solutions** where I lead the synthetic data solutions technology and deployment.
 
 I'm passionate about applying the latest Artificial Intelligence technologies to facilitate innovation in companies -- small or big. Together with my team, I'm building a tool for continuously assessing and improving ML models using synthetic data.
