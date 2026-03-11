@@ -38,11 +38,12 @@ My expertise is within designing mathematical and statistical validation techniq
 ---
 
 ## Talks and Presentations
-
+- **PyCon Ireland 2025** (Dublin) -- [Panel: AI and its impact](https://python.ie/pycon-2025/schedule/)
 - **PyCon Italia 2025** (Bologna) -- [How to Build Your Own Tiny Language Model from Scratch](https://2025.pycon.it/en)
-- **AI Heroes 2023** (Turin) -- [Enhancing AI Robustness with High-Quality Synthetic Data](https://aiheroes.it/)
+- **MLOps Community Meetup 2025** (Milan) -- [Synthetic data for ML model testing](https://app.mlops.community/events/mlops-community-meetup-milanops-2-53o8cw/speakers)
+- **PyData Milan 2025** (Milan) -- [Privacy and Utility in Synthetic Data](https://www.meetup.com/pydata-milano/events/305586060)
+- **AI Heroes 2025** (Turin) -- [Replica Italia: how to build a digital twin of the Italian population](https://aiheroes.it/2025/speakers/)
 - **BiDigital 2023** (Biella) -- "We Have No Moat": Open-source vs Closed-source in the Era of Large Language Models
-- **NL4AI / AIxIA 2023** (Rome) -- [NERPII: A Python Library to Perform Named Entity Recognition and Generate Personal Identifiable Information](https://ceur-ws.org/Vol-3551/)
 
 ---
 
