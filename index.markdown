@@ -3,11 +3,11 @@ layout: default
 title: "CTO, Clearbox AI"
 ---
 
-I'm the CTO of **Clearbox AI Solutions** where I lead the synthetic data solutions technology and deployment.
+I'm the CTO of **Clearbox AI**, where I lead synthetic data technology and deployment.
 
 I'm passionate about applying the latest Artificial Intelligence technologies to facilitate innovation in companies -- small or big. Together with my team, I'm building a tool for continuously assessing and improving ML models using synthetic data.
 
-I have a PhD in computational mathematics from the **Delft University of Technology**. I worked as a research consultant and software development lead for a consultancy firm for over 5 years in the Netherlands serving clients in the safe critical industries in the United States, South Africa and Germany.
+I have a PhD in computational mathematics from the **Delft University of Technology**. I worked as a research consultant and software development lead for a consultancy firm for over 5 years in the Netherlands serving clients in safety-critical industries in the United States, South Africa and Germany.
 
 My expertise is within designing mathematical and statistical validation techniques essential to trust the predictions of AI models. I published high impact research papers on uncertainty quantification and sensitivity analysis in simulation models and have spoken at international conferences in the US, Japan, and Brazil. I like to experiment with hydroponic farming in my free time.
 
@@ -20,7 +20,7 @@ My expertise is within designing mathematical and statistical validation techniq
 
 - Building successful data-centric AI projects on fraud detection, privacy preservation, and bias mitigation.
 - Development and deployment of synthetic data products.
-- R&D projects lead and student supervision.
+- Led R&D projects and supervised students.
 - Coaching junior employees.
 
 ### Co-founder and Chief Engineer
@@ -43,23 +43,34 @@ My expertise is within designing mathematical and statistical validation techniq
 - **MLOps Community Meetup 2025** (Milan) -- [Synthetic data for ML model testing](https://app.mlops.community/events/mlops-community-meetup-milanops-2-53o8cw/speakers)
 - **PyData Milan 2025** (Milan) -- [Privacy and Utility in Synthetic Data](https://www.meetup.com/pydata-milano/events/305586060)
 - **AI Heroes 2025** (Turin) -- [Replica Italia: how to build a digital twin of the Italian population](https://aiheroes.it/2025/speakers/)
-- **BiDigital 2023** (Biella) -- "We Have No Moat": Open-source vs Closed-source in the Era of Large Language Models
+- **BiDigital 2023** (Biella) -- We Have No Moat: Open-source vs Closed-source in the Era of Large Language Models
 
 ---
 
 ## Blog Posts
 
-Selected articles on the [Clearbox AI Blog](https://www.clearbox.ai/blog):
+Selected articles from the [Clearbox AI blog](https://www.clearbox.ai/blog):
 
-- [Tutorial 1/4: Dealing with Uncertainty in ML Problems](https://www.clearbox.ai/blog/2020-09-09-how-to-deal-with-uncertainty-in-real-world-machine-learning-problems-1) (Sep 2020)
-- [Tutorial 2/4: Model Calibration with a Credit Risk Assessment Model](https://www.clearbox.ai/blog/2020-10-28-tutorial-on-model-calibration-with-a-credit-risk-assessment-model) (Oct 2020)
-- [Privacy Preserving Data Cloning Using Generative Models](https://www.clearbox.ai/blog/2021-01-13-privacy-preserving-data-cloning-using-generative-models) (Jan 2021)
-- [Tutorial 3/4: An Introduction to Bayesian ML Models](https://www.clearbox.ai/blog/2021-09-14-an-introduction-to-bayesian-ml-models) (Sep 2021)
+### 2025
+- [A Quick Introduction to Tokenizers](https://www.clearbox.ai/blog/2025-03-25-quick-introduction-tokenizers) (Mar 2025)
+
+### 2024
+- [How to Create a Train and Test Dataset](https://www.clearbox.ai/blog/2024-02-20-how-to-create-a-train-and-test-dataset) (Feb 2024)
+
+### 2023
+- [Generating Synthetic Data within Relational Databases](https://www.clearbox.ai/blog/2023-01-30-generating-synthetic-data-with-relational-databases) (Jan 2023)
+
+### 2022
 - [What is Data-Centric AI?](https://www.clearbox.ai/blog/2022-01-11-what-is-data-centric-ai) (Jan 2022)
 - [What is CI/CD?](https://www.clearbox.ai/blog/2022-03-22-what-is-ci-cd) (Mar 2022)
 - [How to Deal with Imbalanced Data with Generative Models - Part 1](https://www.clearbox.ai/blog/2022-04-26-how-to-deal-with-imbalanced-data-with-generative-models) (Apr 2022)
 - [How to Deal with Imbalanced Data with Generative Models - Part 2](https://www.clearbox.ai/blog/2022-07-19-how-to-deal-with-imbalanced-data-with-generative-models-part-2) (Jul 2022)
 - [Step by Step Data Augmentation for Better ML Models](https://www.clearbox.ai/blog/2022-10-27-step-by-step-data-augmentation-for-better-machine-learning-models) (Oct 2022)
-- [Generating Synthetic Data within Relational Databases](https://www.clearbox.ai/blog/2023-01-30-generating-synthetic-data-with-relational-databases) (Jan 2023)
-- [How to Create a Train and Test Dataset](https://www.clearbox.ai/blog/2024-02-20-how-to-create-a-train-and-test-dataset) (Feb 2024)
-- [A Quick Introduction to Tokenizers](https://www.clearbox.ai/blog/2025-03-25-quick-introduction-tokenizers) (Mar 2025)
+
+### 2021
+- [Privacy Preserving Data Cloning Using Generative Models](https://www.clearbox.ai/blog/2021-01-13-privacy-preserving-data-cloning-using-generative-models) (Jan 2021)
+- [Tutorial 3/4: An Introduction to Bayesian ML Models](https://www.clearbox.ai/blog/2021-09-14-an-introduction-to-bayesian-ml-models) (Sep 2021)
+
+### 2020
+- [Tutorial 1/4: Dealing with Uncertainty in ML Problems](https://www.clearbox.ai/blog/2020-09-09-how-to-deal-with-uncertainty-in-real-world-machine-learning-problems-1) (Sep 2020)
+- [Tutorial 2/4: Model Calibration with a Credit Risk Assessment Model](https://www.clearbox.ai/blog/2020-10-28-tutorial-on-model-calibration-with-a-credit-risk-assessment-model) (Oct 2020)
