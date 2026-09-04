@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "About"
+layout: default
+title: "CTO, Clearbox AI"
 ---
 
 I'm the CTO of **Clearbox AI Solutions** where I lead the synthetic data solutions technology and deployment.
